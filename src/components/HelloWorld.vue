@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
-    <h1>테스트 실패 연습</h1>
-    <h1>My name is Kim JinKyu</h1>
+    <h1>{{ msg }}</h1>
+    <h1>My name is Kim</h1>
     <h2> <a href="https://github.com/JayMaro">My github</a> </h2>
     <h2> <a href="https://github.com/JayMaro/Project">Projects</a> </h2>
     
